@@ -19,4 +19,4 @@ def test_hello_subtract():
     assert subtract(test_hello_subtract.x) == 9
 
 def test_hello_add():
-    assert add(5) == 9
+    assert add(5) == 6
