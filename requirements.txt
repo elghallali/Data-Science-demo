@@ -3,3 +3,6 @@ pytest
 black
 fire
 ipython
+fastapi
+pydantic
+uvicorn[standard]
